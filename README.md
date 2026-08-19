@@ -14,25 +14,20 @@ B.Tech @IT Student
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 
 ### IDE and Tools I Use
-<div class="tool">
-    <img src="https://cdn.simpleicons.org/springboot/6DB33F" alt="Spring Boot">
-</div>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/sql.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/canva.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/android-studio.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/postman-api.png"/>
 
-<div class="tool">
-    <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" alt="Android Studio">
-</div>
-
-<div class="tool">
-    <img src="https://cdn.simpleicons.org/wordpress/21759B" alt="WordPress">
-</div>
-
-<div class="tool">
-    <img src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman">
-</div>
-
-<div class="tool">
-    <img src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva">
-</div>
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Lenovo-Laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white"/>
 <img height="30" src="https://img.shields.io/badge/Intel-Core_i5--13450HX-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
