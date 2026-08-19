@@ -17,6 +17,6 @@ B.Tech @IT Student
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/canva.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/android-studio.png"/><img height="50" width="50" src="https://cdn.simpleicons.org/postman/FF6C37" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/wordpress.png"/><img height="50" width="50" src="https://cdn.simpleicons.org/netlify/00C7B7" /><img height="50" width="50" src="https://cdn.simpleicons.org/vercel/000000" />
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Prakash-2006?theme=dark&font=Marcellus&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/MURUGAN_G?theme=dark&font=Average&ext=activity)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PrakashSelvadurai006&bg_color=0d1117&color=f2f2f2&line=1f6feb&point=f7f7f7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
