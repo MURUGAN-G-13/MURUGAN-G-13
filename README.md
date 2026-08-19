@@ -14,45 +14,25 @@ B.Tech @IT Student
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 
 ### IDE and Tools I Use
-<!-- VS Code -->
-<img height="50" width="50" src="https://cdn.simpleicons.org/visualstudiocode/007ACC" />
+<div class="tool">
+    <img src="https://cdn.simpleicons.org/springboot/6DB33F" alt="Spring Boot">
+</div>
 
-<!-- Eclipse -->
-<img height="50" width="50" src="https://cdn.simpleicons.org/eclipseide/2C2255" />
+<div class="tool">
+    <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" alt="Android Studio">
+</div>
 
-<!-- Git -->
-<img height="50" width="50" src="https://cdn.simpleicons.org/git/F05032" />
+<div class="tool">
+    <img src="https://cdn.simpleicons.org/wordpress/21759B" alt="WordPress">
+</div>
 
-<!-- Figma -->
-<img height="50" width="50" src="https://cdn.simpleicons.org/figma/F24E1E" />
+<div class="tool">
+    <img src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman">
+</div>
 
-<!-- Spring Boot -->
-<img height="50" width="50" src="https://cdn.simpleicons.org/springboot/6DB33F" />
-
-<!-- Android Studio -->
-<img height="50" width="50" src="https://cdn.simpleicons.org/androidstudio/3DDC84" />
-
-<!-- WordPress -->
-<img height="50" width="50" src="https://cdn.simpleicons.org/wordpress/21759B" />
-
-<!-- Postman -->
-<img height="50" width="50" src="https://cdn.simpleicons.org/postman/FF6C37" />
-
-<!-- Canva -->
-<img height="50" width="50" src="https://cdn.simpleicons.org/canva/00C4CC" />
-
-<!-- PyCharm -->
-<img height="50" width="50" src="https://cdn.simpleicons.org/pycharm/21D789" />
-
-<!-- Antigravity -->
-<img height="50" width="50" src="https://cdn.simpleicons.org/google/4285F4" />
-
-<!-- Netlify -->
-<img height="50" width="50" src="https://cdn.simpleicons.org/netlify/00C7B7" />
-
-<!-- Vercel -->
-<img height="50" width="50" src="https://cdn.simpleicons.org/vercel/000000" />
-
+<div class="tool">
+    <img src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva">
+</div>
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Lenovo-Laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white"/>
 <img height="30" src="https://img.shields.io/badge/Intel-Core_i5--13450HX-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
